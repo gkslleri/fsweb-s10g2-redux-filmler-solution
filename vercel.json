@@ -1,0 +1,5 @@
+{
+    "revrites": [
+        {"source": "/(.*)", "destination": "/"}
+    ]
+}
